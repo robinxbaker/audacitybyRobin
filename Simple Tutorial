@@ -1,0 +1,28 @@
+Simple tutorial for downloading and installing Audacity and making and exporting a simple audio file. 
+
+Updated as of May 2024.
+
+-Go to audacityteam.org.
+-Click on “Download Audacity 3.5.1” (the numbers may be different depending on update date).
+-Go to your computer’s downloads and click on the audacity .exe file.
+-When asked if Audacity can make changes to your computer, click yes.
+-A pop-up will appear asking for your preferred language. Select it and click ok.
+-Click next, next, next, next, install.
+-After the install is done, click finished.
+-If Audacity did not already launch, launch it either by clicking the desktop icon or by however your operating system launches apps.
+-You will be greeted with “What’s new in Audacity”. Click okay.
+-In the window that pops up, click on the big red circle in the upper middle.
+-Say into your computer or recording device whatever you want to record.
+-When finished with the above step, click on the black square icon to the left of the red circle.
+-Click on file and export audio.
+-If a pop-up appears asking if you would like to export to your computer or the cloud, select computer.
+-Click the text immediately after File Name and type “Tutorial Recording”.
+-Click on Browse to the very left of Folder.
+-Double click on desktop.
+-Click save.
+-Click Export.
+-Now, go to your desktop and click the audio file. 
+-You may be prompted as to what service you would like to play the audio through. Select the one you wish.
+-Now, you should be hearing the audio you recorded playing back to you.
+
+This should give you a good base for further exploring the usability of Audacity.
